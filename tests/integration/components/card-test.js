@@ -21,6 +21,6 @@ module('Integration | Component | card', function (hooks) {
       </Card>
     `);
 
-    assert.dom(this.element).hasText('template block text');
+    assert.dom(this.element).hasTagName('div').hasAnyValue;
   });
 });
