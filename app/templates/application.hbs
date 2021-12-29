@@ -1,7 +1,9 @@
-{{page-title "FitnessApp"}}
-
-{{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
-{{!-- Feel free to remove this! --}}
-
-{{outlet}}
+<div id="wrapper">
+    <Navbar />
+    <main class="main">
+        {{outlet}}
+        <aside>
+            testing
+        </aside>
+    </main>
+</div>

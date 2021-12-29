@@ -1,0 +1,50 @@
+body,p,h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+}
+
+#wrapper {
+    display: flex;
+    height: 100vh;
+    padding: 1rem;
+}
+
+nav {
+    flex: 1;
+}
+
+.main {
+    flex: 5;
+    display: flex;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    list-style-type: none;
+}
+
+.logo-wrapper a {
+    text-decoration: none;
+}
+
+.logo-wrapper {
+    margin-bottom: 1rem;
+}
+
+section {
+    flex: 1;
+}
+aside {
+    flex: 0 1 250px
+}
