@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "type": "team",
+      "id": "1",
+      "attributes": {
+        "name": "Dragons",
+        "members": [
+            {
+              "fname": "Riley",
+              "lname": "H"
+            },
+            {
+              "fname": "Hamza",
+              "lname": "F"
+            },
+            {
+              "fname": "Maureen",
+              "lname": "H"
+            },
+            {
+              "fname": "Saim",
+              "lname": "S"
+            },
+            {
+              "fname": "Mike",
+              "lname": "K"
+            }
+          ]
+      }
+    },
+    {
+      "type": "team",
+      "id": "2",
+      "attributes":{
+        "name": "Wreckers",
+        "members": [
+            {
+              "fname": "Shawn",
+              "lname": "A"
+            },
+            {
+              "fname": "Michael",
+              "lname": "G"
+            },
+            {
+              "fname": "Jason",
+              "lname": "F"
+            },
+            {
+              "fname": "Thansha",
+              "lname": "S"
+            },
+            {
+              "fname": "Kara",
+              "lname": "H"
+            }
+          ]
+      }
+    },
+    {
+      "type": "team",
+      "id": "3",
+      "attributes":{
+        "name": "Steamers",
+        "members": [
+            {
+              "fname": "Scot",
+              "lname": "R"
+            },
+            {
+              "fname": "Nicole",
+              "lname": "H"
+            },
+            {
+              "fname": "Andrew",
+              "lname": "C"
+            },
+            {
+              "fname": "Max",
+              "lname": "I"
+            },
+            {
+              "fname": "Shannon",
+              "lname": "H"
+            }
+          ]
+      }
+    }
+  ]
+}
