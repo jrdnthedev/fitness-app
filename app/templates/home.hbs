@@ -7,14 +7,7 @@
     <div class="card-container">
         <!--Card Component-->
         {{#each @model as |team|}}
-            <div class="card">
-                <h3>{{team.name}}</h3>
-                <ul>
-                    {{#each team.members as |teamate|}}
-                    <li><a href="#">{{teamate.fname}} {{teamate.lname}}</a></li>
-                    {{/each}}
-                </ul>
-            </div>
+            <Card @card={{team}} />
         {{/each}}
     </div>
     

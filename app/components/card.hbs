@@ -1,0 +1,8 @@
+<div class="card">
+    <h3>{{@card.name}}</h3>
+    <ul>
+        {{#each @card.members as |teamate|}}
+        <li><a href="#">{{teamate.fname}} {{teamate.lname}}</a></li>
+        {{/each}}
+    </ul>
+</div>
