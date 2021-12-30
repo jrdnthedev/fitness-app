@@ -1,0 +1,39 @@
+.card {
+    display: flex; 
+    flex-direction: column;
+    background: white;
+    border-radius: 6px;
+    padding: 1rem;
+    h3 {
+        margin-bottom: 0.5rem;
+        font-size: 1rem;
+    }
+    li {
+        margin-bottom: 0.5rem;
+        padding: 0.5rem 0.3rem;
+        background-color: coral;
+        border-radius: 6px;
+        font-size: .8rem;
+    }
+}
+.card-wrapper {
+    padding: 1rem;
+    flex: 1 0 100%;
+}
+
+@media screen and (min-width:568px) {
+    .card-wrapper {
+        flex: 1 0 50%;
+        max-width: 246px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .card-wrapper {
+        flex: 1 0 33%;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    
+}

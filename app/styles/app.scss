@@ -1,0 +1,92 @@
+@import 'partials/card.scss';
+
+
+
+body,p,h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+nav {
+    flex: 0 100px;
+    padding: 1rem;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo-wrapper {
+    margin-bottom: 1rem;
+}
+
+section {
+    flex: 1;
+    background-color: aliceblue;
+}
+
+.section-header {
+    margin: 2rem 1rem 1rem;
+}
+aside {
+    display: none;
+    padding: 1rem;
+}
+
+/* component styles */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width:768px) {
+    #wrapper {
+        flex-direction: row;
+    }
+    aside {
+        flex: 0 1 175px;
+        display: block;
+    }
+}
+
+@media screen and (min-width:992px) {
+    aside {
+        flex: 0 1 250px;
+        display: block;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    
+}
