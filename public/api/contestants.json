@@ -1,0 +1,388 @@
+{
+    "data": [
+      {
+        "type": "contestant",
+        "id": "1",
+        "attributes": {
+          "name": "Dragons",
+          "teamates": [
+              {
+                "fname": "Riley",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Hamza",
+                "lname": "F",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Maureen",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Saim",
+                "lname": "S",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Mike",
+                "lname": "K",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+          ]
+        }
+      },
+      {
+        "type": "contestant",
+        "id": "2",
+        "attributes":{
+          "name": "Wreckers",
+          "teamates": [
+              {
+                "fname": "Shawn",
+                "lname": "A",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Michael",
+                "lname": "G",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Jason",
+                "lname": "F",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Thansha",
+                "lname": "S",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Kara",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+            ]
+        }
+      },
+      {
+        "type": "contestant",
+        "id": "3",
+        "attributes":{
+          "name": "Steamers",
+          "teamates": [
+              {
+                "fname": "Scot",
+                "lname": "R",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Nicole",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Andrew",
+                "lname": "C",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Max",
+                "lname": "I",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Shannon",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+            ]
+        }
+      },
+      {
+        "type": "contestant",
+        "id": "4",
+        "attributes": {
+          "name": "Young Guns",
+          "teamates": [
+              {
+                "fname": "Sean ",
+                "lname": "F",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Nadine ",
+                "lname": "M",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Dhiv ",
+                "lname": "P",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Jeff ",
+                "lname": "G",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Alex ",
+                "lname": "I",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+          ]
+        }
+      },
+      {
+        "type": "contestant",
+        "id": "5",
+        "attributes":{
+          "name": "Gigi #Girldad",
+          "teamates": [
+              {
+                "fname": "Scott ",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Paul ",
+                "lname": "M",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Brandon ",
+                "lname": "S",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Jessie ",
+                "lname": "L",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Brian ",
+                "lname": "L",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+            ]
+        }
+      },
+      {
+        "type": "contestant",
+        "id": "6",
+        "attributes":{
+          "name": "Mamba",
+          "teamates": [
+              {
+                "fname": "Charlie ",
+                "lname": "H",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Rameel ",
+                "lname": "S",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Connor ",
+                "lname": "D",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Claire ",
+                "lname": "F",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              },
+              {
+                "fname": "Diogo ",
+                "lname": "P",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+              }
+            ]
+        }
+      }
+    ]
+  }
