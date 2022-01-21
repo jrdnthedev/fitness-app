@@ -2,6 +2,7 @@
 @import 'partials/card.scss';
 @import 'partials/nav.scss';
 @import 'pages/profile.scss';
+@import 'partials/table.scss';
 
 body,p,h1,h2,h3,h4,h5,h6 {
     margin: 0;
@@ -22,7 +23,6 @@ body {
     min-height: 100vh;
     flex-direction: column;
 }
-
 
 .main {
     flex: 1;
@@ -58,6 +58,17 @@ section {
         font-weight: 100;
     }
 }
+.highcharts-container {
+    width: 100% !important;
+}
+.headline-container {
+    margin: 0 1rem 1rem;
+    p {
+        margin: 2rem 4rem;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+}
 /* rules page stlyes */
 .rules-container {
     display: flex;
@@ -84,44 +95,6 @@ section {
         margin-bottom: 1rem;
         &:last-child {
             margin-bottom: 0;
-        }
-    }
-}
-
-/* table component styles */
-.table-container {
-    margin: 0 1rem;
-    padding: 1rem;
-    background-color: white;
-    border-radius: 3px;
-    border: 1px solid $lightgrey;
-    margin-bottom: 1rem;
-    h3 {
-        margin-bottom: 0.75rem;
-        font-weight: inherit;
-    }
-}
-table {
-    width: 100%;
-    background-color: white;
-    border: 1px solid $lightgrey;
-    border-spacing: 0;
-    th,td {
-        padding: .5rem;
-        border-bottom: 1px solid $lightgrey;
-        border-right: 1px solid $lightgrey;
-        &:last-child {
-            border-right: 0;
-        }
-    }
-    &:last-child {
-        border-bottom: 0;
-    }
-    tbody {
-        tr {
-            &:nth-child(odd) {
-                background-color: rgba(0,0,0,.05);
-            }
         }
     }
 }
