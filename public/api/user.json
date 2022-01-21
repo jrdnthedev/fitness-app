@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "type": "user",
+            "id": "1",
+            "attributes": {
+                "firstname":"Riley",
+                "lastname":"H",
+                "teamname":"Dragons",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "2",
+            "attributes": {
+                "firstname":"Hamza",
+                "lastname":"F",
+                "teamname":"Dragons",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "3",
+            "attributes": {
+                "firstname":"Maureen",
+                "lastname":"H",
+                "teamname":"Dragons",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "4",
+            "attributes": {
+                "firstname":"Saim",
+                "lastname":"S",
+                "teamname":"Dragons",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "5",
+            "attributes": {
+                "firstname":"Mike",
+                "lastname":"K",
+                "teamname":"Dragons",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "6",
+            "attributes": {
+                "firstname":"Shawn",
+                "lastname":"A",
+                "teamname":"Wreckers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "7",
+            "attributes": {
+                "firstname":"Michael",
+                "lastname":"G",
+                "teamname":"Wreckers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "8",
+            "attributes": {
+                "firstname":"Jason",
+                "lastname":"F",
+                "teamname":"Wreckers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "9",
+            "attributes": {
+                "firstname":"Thansha",
+                "lastname":"S",
+                "teamname":"Wreckers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "10",
+            "attributes": {
+                "firstname":"Kara",
+                "lastname":"H",
+                "teamname":"Wreckers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "11",
+            "attributes": {
+                "firstname":"Scot",
+                "lastname":"R",
+                "teamname":"Steamers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "12",
+            "attributes": {
+                "firstname":"Nicole",
+                "lastname":"H",
+                "teamname":"Steamers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "13",
+            "attributes": {
+                "firstname":"Andrew",
+                "lastname":"C",
+                "teamname":"Steamers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "14",
+            "attributes": {
+                "firstname":"Max",
+                "lastname":"I",
+                "teamname":"Steamers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "15",
+            "attributes": {
+                "firstname":"Shannon",
+                "lastname":"H",
+                "teamname":"Steamers",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "16",
+            "attributes": {
+                "firstname":"Nadine",
+                "lastname":"M",
+                "teamname":"Young Guns",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "17",
+            "attributes": {
+                "firstname":"Sean",
+                "lastname":"F",
+                "teamname":"Young Guns",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "18",
+            "attributes": {
+                "firstname":"Dhiv",
+                "lastname":"P",
+                "teamname":"Young Guns",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "19",
+            "attributes": {
+                "firstname":"Jeff",
+                "lastname":"G",
+                "teamname":"Young Guns",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "20",
+            "attributes": {
+                "firstname":"Alex",
+                "lastname":"I",
+                "teamname":"Young Guns",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "21",
+            "attributes": {
+                "firstname":"Scott",
+                "lastname":"H",
+                "teamname":"Gigi #Girldad",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "22",
+            "attributes": {
+                "firstname":"Paul",
+                "lastname":"M",
+                "teamname":"Gigi #Girldad",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "23",
+            "attributes": {
+                "firstname":"Brandon",
+                "lastname":"S",
+                "teamname":"Gigi #Girldad",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "24",
+            "attributes": {
+                "firstname":"Jessie",
+                "lastname":"L",
+                "teamname":"Gigi #Girldad",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "25",
+            "attributes": {
+                "firstname":"Brian",
+                "lastname":"L",
+                "teamname":"Gigi #Girldad",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "26",
+            "attributes": {
+                "firstname":"Charlie",
+                "lastname":"H",
+                "teamname":"Mamba",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "27",
+            "attributes": {
+                "firstname":"Rameel",
+                "lastname":"S",
+                "teamname":"Mamba",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "28",
+            "attributes": {
+                "firstname":"Connor",
+                "lastname":"D",
+                "teamname":"Mamba",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "29",
+            "attributes": {
+                "firstname":"Claire",
+                "lastname":"F",
+                "teamname":"Mamba",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        },
+        {
+            "type": "user",
+            "id": "30",
+            "attributes": {
+                "firstname":"Diogo",
+                "lastname":"P",
+                "teamname":"Mamba",
+                "city": "n/a",
+                "image":"",
+                "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+                "scores": [
+                    104,
+                    110,
+                    100,
+                    105,
+                    138
+                  ]
+            }
+        }
+    ]
+}

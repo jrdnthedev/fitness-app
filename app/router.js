@@ -10,4 +10,5 @@ Router.map(function () {
   this.route('home');
   this.route('rules');
   this.route('leaderboard');
+  this.route('profile');
 });
