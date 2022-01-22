@@ -2,12 +2,12 @@
 <nav class="menu">
     <div class="logo-wrapper">
         <div style="background-image: url(/assets/img/user.jpg);" class="profile-details"></div>
-        <LinkTo @route="profile">Luke Steele</LinkTo>
+        <LinkTo @route="profile" class="semi-bold">Luke Steele</LinkTo>
     </div>
     
     <ul class="link-list">
-        <li><LinkTo @route="home">Home</LinkTo></li>
-        <li><LinkTo @route="leaderboard">Leader Board</LinkTo></li>
-        <li><LinkTo @route="rules">Rules</LinkTo></li>
+        <li><LinkTo @route="home"><FaIcon @icon="home" />Home</LinkTo></li>
+        <li><LinkTo @route="leaderboard"><FaIcon @icon="border-all" />Leader Board</LinkTo></li>
+        <li><LinkTo @route="rules"><FaIcon @icon="list" />Rules</LinkTo></li>
     </ul>
 </nav>

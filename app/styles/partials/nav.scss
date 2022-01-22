@@ -2,7 +2,10 @@ nav {
     flex: 0 220px;
     background-color: $navbkg;
     a {
-        color: white;
+        color: #a7b1c2;
+    }
+    svg {
+        margin-right: .4rem;
     }
     .link-list {
         li a{
@@ -12,6 +15,7 @@ nav {
             font-size: .81rem;
             &:hover {
                 background-color: #293846;
+                color: white;
             }
         }
     }
@@ -28,5 +32,8 @@ nav {
         background-size: cover;
         border-radius: 50%;
         margin-bottom: 0.5rem;
+    }
+    a {
+        font-size: .8rem;
     }
 }

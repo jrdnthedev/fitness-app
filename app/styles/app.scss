@@ -14,8 +14,16 @@ body,p,h1,h2,h3,h4,h5,h6 {
 
 body {
     font-size: 16px;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #676a6c;
+}
+
+.semi-bold {
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 700;
 }
 
 #wrapper {
@@ -55,7 +63,7 @@ section {
     h1 {
         margin-bottom: 1rem;
         font-size: 1.5rem;
-        font-weight: 100;
+        font-weight: 300;
     }
 }
 .highcharts-container {
@@ -67,7 +75,12 @@ section {
         margin: 2rem 4rem;
         font-size: 1.5rem;
         text-align: center;
+        font-weight: 300;
     }
+}
+
+.highlight {
+    color: #1ab394;
 }
 /* rules page stlyes */
 .rules-container {
