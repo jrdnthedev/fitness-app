@@ -11,4 +11,5 @@ Router.map(function () {
   this.route('rules');
   this.route('leaderboard');
   this.route('profile');
+  this.route('totals');
 });
