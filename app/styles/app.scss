@@ -91,14 +91,17 @@ section {
     }
     h2 {
         margin-bottom: 1rem;
+        font-size: .9rem;
+        font-weight: 700;
     }
     .card {
         padding: 1rem;
         p {
             padding: 0 0 1rem;
+            font-size: .9rem;
             span {
-                font-weight: bold;
-                font-size: 1.2rem;
+                font-weight: 700;
+                font-size: .9rem;
                 text-transform: capitalize;
             }
         }
