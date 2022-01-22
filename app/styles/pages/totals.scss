@@ -17,15 +17,16 @@
 .table-wrapper {
     padding: 0 1rem 1rem;
     flex: 1 0 100%;
-}
-
-table {
-    th {
-        text-align: center;
-        background-color: #2F4050;
-        color: white;
+    table {
+        th {
+            text-align: center;
+            background-color: #2F4050;
+            color: white;
+        }
     }
 }
+
+
 @media screen and (min-width:568px) {
     .table-wrapper {
         flex: 1 0 50%;
