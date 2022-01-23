@@ -10,7 +10,7 @@ export default class ChartComponent extends Component {
       },
     },
     title: {
-      text: 'Fitness Chart',
+      text: 'Week 1',
     },
     xAxis: {
       type: 'categories',

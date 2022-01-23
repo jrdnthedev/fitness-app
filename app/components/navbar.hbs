@@ -1,4 +1,3 @@
-{{yield}}
 <nav class="menu">
     <div class="logo-wrapper">
         <div style="background-image: url(/assets/img/user.jpg);" class="profile-details"></div>
@@ -7,7 +6,8 @@
     
     <ul class="link-list">
         <li><LinkTo @route="home"><FaIcon @icon="home" />Home</LinkTo></li>
-        <li><LinkTo @route="leaderboard"><FaIcon @icon="border-all" />Leader Board</LinkTo></li>
+        <li><LinkTo @route="point-entry"><FaIcon @icon="pen-square" />Point Entry</LinkTo></li>
+        <li><LinkTo @route="leaderboard"><FaIcon @icon="table" />Leader Board</LinkTo></li>
         <li><LinkTo @route="totals"><FaIcon @icon="bullseye" />Category Totals</LinkTo></li>
         <li><LinkTo @route="rules"><FaIcon @icon="list" />Rules</LinkTo></li>
     </ul>

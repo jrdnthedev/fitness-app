@@ -12,4 +12,5 @@ Router.map(function () {
   this.route('leaderboard');
   this.route('profile');
   this.route('totals');
+  this.route('point-entry');
 });
