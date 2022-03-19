@@ -8,6 +8,7 @@
 }
 .entry-totals {
     flex: 1;
+    padding: 1rem;
 }
 .entry-box {
     padding: 0 1rem 1rem;
@@ -36,6 +37,9 @@
             outline: 0;
             border: 1px solid #2F4050;
             height: 30px;
+            background: #445362;
+            color: white;
+            padding: 6px 12px;
         }
     }
 }

@@ -13,7 +13,7 @@ nav {
             display: block;
             font-weight: 700;
             font-size: .81rem;
-            &:hover {
+            &:hover,&.active {
                 background-color: #293846;
                 color: white;
             }

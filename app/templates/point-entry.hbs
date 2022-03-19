@@ -4,54 +4,13 @@
     </div>
 
     <div class="point-container">
-        <div class="box-container">
-            <div class="entry-box">
-               <div class="header">
-                   <p>monday</p>
-               </div>
-               <div class="input-section">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-               </div>
-            </div>
-            <div class="entry-box">
-                <div class="header">
-                    <p>tuesday</p>
-               </div>
-               <div class="input-section">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-               </div>
-            </div>
-            <div class="entry-box">
-                <div class="header">
-                    <p>wedensday</p>
-               </div>
-               <div class="input-section">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-               </div>
-            </div>
-            <div class="entry-box">
-                <div class="header">
-                    <p>thursday</p>
-               </div>
-               <div class="input-section">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-                   <input type="text">
-               </div>
-            </div>
-        </div>
         <div class="entry-totals">
             test
+        </div>
+        <div class="box-container">
+            {{#each @model as |day|}}
+                <Entry-Box @box={{day}} />
+            {{/each}}
         </div>
     </div>
 </section>
