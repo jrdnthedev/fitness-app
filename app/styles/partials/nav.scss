@@ -13,9 +13,13 @@ nav {
             display: block;
             font-weight: 700;
             font-size: .81rem;
+            border-left: 3px solid transparent;
             &:hover,&.active {
                 background-color: #293846;
                 color: white;
+            }
+            &.active {
+                border-left: 3px solid #1ab394;
             }
         }
     }
@@ -23,7 +27,7 @@ nav {
 
 .logo-wrapper {
     margin: 1rem 0;
-    padding: 0 1rem;
+    padding: 0 16px;
     .profile-details {
         height: 75px;
         width: 75px;
