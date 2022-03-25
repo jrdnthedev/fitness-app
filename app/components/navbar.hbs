@@ -1,7 +1,8 @@
 <nav class="menu">
     <div class="logo-wrapper">
         <div style="background-image: url(/assets/img/user.jpg);" class="profile-details"></div>
-        <LinkTo @route="profile" class="semi-bold">Luke Steele</LinkTo>
+        <LinkTo @route="profile" class="semi-bold">{{@model.firstname}} {{@model.lastname}}</LinkTo>
+        <p class="profile-sub"><span>Team:</span> {{@model.teamname}}</p>
     </div>
     
     <ul class="link-list">

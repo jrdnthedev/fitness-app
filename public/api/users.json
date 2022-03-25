@@ -17,6 +17,17 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "team":{
+                    "link":{
+                        "related":"http://localhost:4200/api/teams.json"
+                    }
+                },
+                "data":{
+                    "id": "1",
+                    "type": "team"
+                }
             }
         },
         {
@@ -36,6 +47,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "1",
+                    "type": "team"
+                }
             }
         },
         {
@@ -55,6 +72,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "1",
+                    "type": "team"
+                }
             }
         },
         {
@@ -74,6 +97,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "1",
+                    "type": "team"
+                }
             }
         },
         {
@@ -93,6 +122,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -112,6 +147,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -131,6 +172,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -150,6 +197,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -169,6 +222,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -188,6 +247,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "2",
+                    "type": "team"
+                }
             }
         },
         {
@@ -207,6 +272,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "3",
+                    "type": "team"
+                }
             }
         },
         {
@@ -226,6 +297,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "3",
+                    "type": "team"
+                }
             }
         },
         {
@@ -245,6 +322,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "3",
+                    "type": "team"
+                }
             }
         },
         {
@@ -264,6 +347,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "3",
+                    "type": "team"
+                }
             }
         },
         {
@@ -283,6 +372,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "3",
+                    "type": "team"
+                }
             }
         },
         {
@@ -302,6 +397,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "4",
+                    "type": "team"
+                }
             }
         },
         {
@@ -321,6 +422,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "4",
+                    "type": "team"
+                }
             }
         },
         {
@@ -340,6 +447,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "4",
+                    "type": "team"
+                }
             }
         },
         {
@@ -359,6 +472,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "4",
+                    "type": "team"
+                }
             }
         },
         {
@@ -378,6 +497,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "4",
+                    "type": "team"
+                }
             }
         },
         {
@@ -397,6 +522,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "5",
+                    "type": "team"
+                }
             }
         },
         {
@@ -416,6 +547,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "5",
+                    "type": "team"
+                }
             }
         },
         {
@@ -435,6 +572,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "5",
+                    "type": "team"
+                }
             }
         },
         {
@@ -454,6 +597,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "5",
+                    "type": "team"
+                }
             }
         },
         {
@@ -473,6 +622,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "5",
+                    "type": "team"
+                }
             }
         },
         {
@@ -492,6 +647,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "6",
+                    "type": "team"
+                }
             }
         },
         {
@@ -511,6 +672,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "6",
+                    "type": "team"
+                }
             }
         },
         {
@@ -530,6 +697,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "6",
+                    "type": "team"
+                }
             }
         },
         {
@@ -549,6 +722,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "6",
+                    "type": "team"
+                }
             }
         },
         {
@@ -568,6 +747,12 @@
                     105,
                     138
                   ]
+            },
+            "relationships":{
+                "data":{
+                    "id": "6",
+                    "type": "team"
+                }
             }
         }
     ]

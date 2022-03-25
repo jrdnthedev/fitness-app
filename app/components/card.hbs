@@ -1,13 +1,13 @@
 <div class="card-wrapper">
     <div class="card">
         <div class="title">
-            <h3>{{@card.name}}</h3>
+            <h3>{{@team.name}}</h3>
             <div class="badge top">Top Week </div>
         </div>
         
         <ul>
-            {{#each @card.members as |teamate|}}
-            <li><a href="#">{{teamate.fname}} {{teamate.lname}}</a></li>
+            {{#each @team.user as |user|}}
+            <li><a href="#">{{user.firstname}} {{user.lastname}}</a></li>
             {{/each}}
         </ul>
     </div>

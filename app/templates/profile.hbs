@@ -8,10 +8,10 @@
             <div class="card">
                 <h2>Profile detail</h2>
                 <div class="image-container" style="background-image: url(/assets/img/user.jpg);"></div>
-                <h2>Luke Steele</h2>
-                <h3><FaIcon @icon="map-marker-alt" />Toronto, On</h3>
+                <h2>{{@model.firstname}} {{@model.lastname}}</h2>
+                <h3><FaIcon @icon="map-marker-alt" />{{@model.city}}</h3>
                 <h2>About me</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.</p>
+                <p>{{@model.bio}}</p>
             </div>
         </div>
         <div class="profile-wrapper details">

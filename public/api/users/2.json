@@ -1,0 +1,25 @@
+{"data":{
+    "type": "user",
+    "id": "2",
+    "attributes": {
+        "firstname":"Hamza",
+        "lastname":"F",
+        "teamname":"Dragons",
+        "city": "n/a",
+        "image":"",
+        "bio":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat.",
+        "scores": [
+            104,
+            110,
+            100,
+            105,
+            138
+            ]
+    },
+    "relationships":{
+        "data":{
+            "id": "1",
+            "type": "team"
+        }
+    }
+}}
