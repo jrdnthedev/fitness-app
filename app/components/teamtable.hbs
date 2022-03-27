@@ -1,6 +1,5 @@
-{{#each @contestant as |teamate|}}
 <div class="table-container">
-    <h3>{{teamate.name}}</h3>
+    <h3>{{@team.name}}</h3>
     <table>
         <thead>
             <tr>
@@ -15,9 +14,9 @@
             </tr>
         </thead>
         <tbody>
-            {{#each teamate.teamates as |user index|}}
+            {{#each  @team.user as |user index|}}
                 <tr>               
-                    <td>{{user.fname}} {{user.lname}}</td>
+                    <td>{{user.firstname}} {{user.lastname}}</td>
                     {{#each user.scores as |score|}}
                     <td>{{score}}</td>
                     {{/each}}
@@ -30,4 +29,3 @@
         </tbody>
     </table>
 </div>
-{{/each}}

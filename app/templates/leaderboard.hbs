@@ -3,7 +3,8 @@
         <h1>Leaderboard</h1>
     </div>
     
-    <Leaderboardtable @table={{@model.team}} />
-
-    <Teamtable @contestant={{@model.contestant}} />
+    <Leaderboardtable @table={{@model}} />
+    {{#each @model as |team|}}
+        <Teamtable @team={{team}} />
+    {{/each}}
 </section>
