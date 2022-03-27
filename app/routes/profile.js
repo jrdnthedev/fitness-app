@@ -4,7 +4,7 @@ import { inject as service } from '@ember/service';
 
 export default class ProfileRoute extends Route {
   @service store;
-  async model() {
-    return this.store.findRecord('user', 1);
+  async model(params) {
+    return this.store.findRecord('user', params.user_id);
   }
 }

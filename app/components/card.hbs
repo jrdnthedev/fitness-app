@@ -7,7 +7,7 @@
         
         <ul>
             {{#each @team.user as |user|}}
-            <li><a href="#">{{user.firstname}} {{user.lastname}}</a></li>
+            <li><LinkTo @route="profile" @model={{user}}>{{user.firstname}} {{user.lastname}}</LinkTo></li>
             {{/each}}
         </ul>
     </div>

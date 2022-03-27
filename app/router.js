@@ -10,7 +10,7 @@ Router.map(function () {
   this.route('home');
   this.route('rules');
   this.route('leaderboard');
-  this.route('profile');
+  this.route('profile', { path: '/profile/:user_id' });
   this.route('totals');
   this.route('point-entry');
 });
