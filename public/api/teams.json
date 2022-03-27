@@ -15,32 +15,29 @@
       },
       "relationships":{
         "user":{
-          "links": {
-            "related": "http://localhost:4200/api/users.json"
-          }
-        },
-        "data":[
-          {
-            "id": "1",
-            "type": "user"
-          },
-          {
-            "id": "2",
-            "type": "user"
-          },
-          {
-            "id": "3",
-            "type": "user"
-          },
-          {
-            "id": "4",
-            "type": "user"
-          },
-          {
-            "id": "5",
-            "type": "user"
-          }
-        ]
+          "data":[
+            {
+              "id": "1",
+              "type": "user"
+            },
+            {
+              "id": "2",
+              "type": "user"
+            },
+            {
+              "id": "3",
+              "type": "user"
+            },
+            {
+              "id": "4",
+              "type": "user"
+            },
+            {
+              "id": "5",
+              "type": "user"
+            }
+          ]
+        }        
       }
     },
     {
@@ -57,28 +54,30 @@
           ]
       },
       "relationships":{
-        "data":[
-          {
-            "id": "6",
-            "type": "user"
-          },
-          {
-            "id": "7",
-            "type": "user"
-          },
-          {
-            "id": "8",
-            "type": "user"
-          },
-          {
-            "id": "9",
-            "type": "user"
-          },
-          {
-            "id": "10",
-            "type": "user"
-          }
-        ]
+        "user":{
+          "data":[
+            {
+              "id": "6",
+              "type": "user"
+            },
+            {
+              "id": "7",
+              "type": "user"
+            },
+            {
+              "id": "8",
+              "type": "user"
+            },
+            {
+              "id": "9",
+              "type": "user"
+            },
+            {
+              "id": "10",
+              "type": "user"
+            }
+          ]
+        }        
       }
     },
     {
@@ -95,28 +94,30 @@
           ]
       },
       "relationships":{
-        "data":[
-          {
-            "id": "11",
-            "type": "user"
-          },
-          {
-            "id": "12",
-            "type": "user"
-          },
-          {
-            "id": "13",
-            "type": "user"
-          },
-          {
-            "id": "14",
-            "type": "user"
-          },
-          {
-            "id": "15",
-            "type": "user"
-          }
+        "user":{
+          "data":[
+            {
+              "id": "11",
+              "type": "user"
+            },
+            {
+              "id": "12",
+              "type": "user"
+            },
+            {
+              "id": "13",
+              "type": "user"
+            },
+            {
+              "id": "14",
+              "type": "user"
+            },
+            {
+              "id": "15",
+              "type": "user"
+            }
           ]
+        }        
       }
     },
     {
@@ -133,28 +134,30 @@
         ]
       },
       "relationships":{
-        "data":[
-          {
-            "id": "16",
-            "type": "user"
-          },
-          {
-            "id": "17",
-            "type": "user"
-          },
-          {
-            "id": "18",
-            "type": "user"
-          },
-          {
-            "id": "19",
-            "type": "user"
-          },
-          {
-            "id": "20",
-            "type": "user"
-          }
-        ]
+        "user":{
+          "data":[
+            {
+              "id": "16",
+              "type": "user"
+            },
+            {
+              "id": "17",
+              "type": "user"
+            },
+            {
+              "id": "18",
+              "type": "user"
+            },
+            {
+              "id": "19",
+              "type": "user"
+            },
+            {
+              "id": "20",
+              "type": "user"
+            }
+          ]
+        }        
       }
     },
     {
@@ -171,28 +174,30 @@
           ]
       },
       "relationships":{
-        "data":[
-          {
-            "id": "21",
-            "type": "user"
-          },
-          {
-            "id": "22",
-            "type": "user"
-          },
-          {
-            "id": "23",
-            "type": "user"
-          },
-          {
-            "id": "24",
-            "type": "user"
-          },
-          {
-            "id": "25",
-            "type": "user"
-          }
-        ]
+        "user":{
+          "data":[
+            {
+              "id": "21",
+              "type": "user"
+            },
+            {
+              "id": "22",
+              "type": "user"
+            },
+            {
+              "id": "23",
+              "type": "user"
+            },
+            {
+              "id": "24",
+              "type": "user"
+            },
+            {
+              "id": "25",
+              "type": "user"
+            }
+          ]
+        }        
       }
     },
     {
@@ -209,29 +214,34 @@
           ]
       },
       "relationships":{
-        "data":[
-          {
-            "id": "26",
-            "type": "user"
-          },
-          {
-            "id": "27",
-            "type": "user"
-          },
-          {
-            "id": "28",
-            "type": "user"
-          },
-          {
-            "id": "29",
-            "type": "user"
-          },
-          {
-            "id": "30",
-            "type": "user"
-          }
-        ]
+        "user":{
+          "data":[
+            {
+              "id": "26",
+              "type": "user"
+            },
+            {
+              "id": "27",
+              "type": "user"
+            },
+            {
+              "id": "28",
+              "type": "user"
+            },
+            {
+              "id": "29",
+              "type": "user"
+            },
+            {
+              "id": "30",
+              "type": "user"
+            }
+          ]
+        }        
       }
     }
-  ]
+  ],
+  "links": {
+    "related": "http://localhost:4200/api/users.json"
+  }
 }
